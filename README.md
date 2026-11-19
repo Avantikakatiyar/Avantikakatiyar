@@ -1,53 +1,56 @@
-Hi, I'm Avantika! 👋
+<div align="center">
 
-B.Tech CSE | Artificial Intelligence & Machine Learning
+# ✨ Hi, I'm Avantika! 👋
 
-I'm a Computer Science student exploring technology, programming and the possibilities of Artificial Intelligence.
+###  B.Tech CSE (AI/ML) Student |  AI/ML Enthusiast 
 
-About Me 💙
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2997C8&center=true&vCenter=true&width=500&lines=Exploring+Artificial+Intelligence;Learning+and+Building+Every+Day;Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
 
--  Pursuing B.Tech in Computer Science (AI & ML)
--  Currently strengthening my programming fundamentals
--  Exploring Artificial Intelligence and Machine Learning
+</div>
 
-✨ Technologies & Tools
+---
 
-Programming Languages
+## 💙 About Me
 
-- Python
-- C
+-  Hi, I'm Avantika!
+-  B.Tech CSE (AI/ML) Student
+-  Exploring Artificial Intelligence & Machine Learning
+-  Learning Python | C | Data Structures
+-  Strengthening my programming fundamentals
+-  Building projects and exploring new technologies
 
-Developer Tools
+> From curiosity to creation, one commit at a time.
 
-- Visual Studio Code
-- Git
-- GitHub
+## 🌐 Socials
 
-Currently Exploring
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avantikakatiyar)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 📚 Currently Exploring
 
 - NumPy
 - Pandas
 - Machine Learning
+- Data Structures & Algorithms
 
- What I'm Working On
+## 💡 Developer Quote
 
-- Improving Python and C programming skills
-- Practising Data Structures & Algorithms
-- Learning Git and GitHub workflows
-- Exploring AI/ML fundamentals
-- Building small programming projects
-
- My Goals 🍀
-
-- Develop strong problem-solving skills
-- Build meaningful technical projects
-- Participate in hackathons
-- Explore open-source contributions
-- Grow as an AI/ML engineer
-
- My Philosophy
- " The subject reveals its true beauty to its most patient learner."
+> " Code is like humor. When you have to explain it, it's bad. "
 
 ---
 
-Thanks for visiting my profile.❤️
+<div align="center">
+
+✨ Thanks for visiting my profile! ✨
+
+</div>
