@@ -1,16 +1,53 @@
-## Hi there 👋
+Hi, I'm Avantika! 👋
 
-<!--
-**Avantikakatiyar/Avantikakatiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE | Artificial Intelligence & Machine Learning
 
-Here are some ideas to get you started:
+I'm a Computer Science student exploring technology, programming and the possibilities of Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me 💙
+
+-  Pursuing B.Tech in Computer Science (AI & ML)
+-  Currently strengthening my programming fundamentals
+-  Exploring Artificial Intelligence and Machine Learning
+
+✨ Technologies & Tools
+
+Programming Languages
+
+- Python
+- C
+
+Developer Tools
+
+- Visual Studio Code
+- Git
+- GitHub
+
+Currently Exploring
+
+- NumPy
+- Pandas
+- Machine Learning
+
+ What I'm Working On
+
+- Improving Python and C programming skills
+- Practising Data Structures & Algorithms
+- Learning Git and GitHub workflows
+- Exploring AI/ML fundamentals
+- Building small programming projects
+
+ My Goals 🍀
+
+- Develop strong problem-solving skills
+- Build meaningful technical projects
+- Participate in hackathons
+- Explore open-source contributions
+- Grow as an AI/ML engineer
+
+ My Philosophy
+ " The subject reveals its true beauty to its most patient learner."
+
+---
+
+Thanks for visiting my profile.❤️
