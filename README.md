@@ -19,13 +19,13 @@
 -  Strengthening my programming fundamentals
 -  Building projects and exploring new technologies
 
-> From curiosity to creation, one commit at a time.
 
 ## 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avantikakatiyar)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+avantika-katiyar-962615379)
 
 ## 💻 Tech Stack
 
